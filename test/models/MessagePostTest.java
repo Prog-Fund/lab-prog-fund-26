@@ -23,6 +23,10 @@ class MessagePostTest {
         messagePost2 = null;
     }
 
+
+
+
+
     @Test
     void setMessage() {
         assertEquals("Hi there." ,messagePost1.getMessage());
